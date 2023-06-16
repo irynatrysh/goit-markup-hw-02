@@ -1,12 +1,12 @@
 :root {
-    --color-iris: #4d5ae5;
-    --color-title: #2e2f42;
-    --color-text: #434455;
-    --color-link: #434455;
-    --color-white: #ffffff;
-    --background-hero: #2e2f42;
+    --color-iris-color: #4d5ae5;
+    --color-title-color: #2e2f42;
+    --color-text-color: #434455;
+    --color-link-color: #434455;
+    --color-white-clor: #ffffff;
+    --background-hero-color: #2e2f42;
     
-body {
+    body {
         color: var(--color-text);
         background-color: var(--color-white);
         font-family: 'Roboto', sans-serif;
@@ -26,7 +26,7 @@ body {
         text-decoration: none;
     }
 
-    .logo {
+    .link-logo {
         font-family: 'Raleway', sans-serif;
         font-weight: 800;
         font-size: 18px;
