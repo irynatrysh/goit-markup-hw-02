@@ -1,10 +1,10 @@
 :root {
-    --background-hero: #2e2f42;
     --color-iris: #4d5ae5;
     --color-title: #2e2f42;
     --color-text: #434455;
     --color-link: #434455;
     --color-white: #ffffff;
+    --background-hero: #2e2f42;
     
 body {
         color: var(--color-text);
@@ -170,6 +170,7 @@ body {
         color: #f4f4fd;
         font-size: 16px;
         line-height: 1.5;
+        font-style: normal;
     }
 
     /* Portfolio */
