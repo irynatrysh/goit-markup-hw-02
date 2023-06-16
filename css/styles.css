@@ -159,7 +159,7 @@ body {
     /* Footer */
 
     .page-footer {
-        background: var(--background-hero);
+        background-color: #2E2F42;;
     }
 
     .accent-color {
