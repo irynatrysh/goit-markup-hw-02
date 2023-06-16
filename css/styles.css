@@ -1,10 +1,11 @@
 :root {
-    --color-iris-color: #4d5ae5;
-    --color-title-color: #2e2f42;
-    --color-text-color: #434455;
-    --color-link-color: #434455;
-    --color-white-clor: #ffffff;
-    --background-hero-color: #2e2f42;
+    --color-iris: #4d5ae5;
+    --color-title: #2e2f42;
+    --color-text: #434455;
+    --color-link: #434455;
+    --color-white: #ffffff;
+    --background-hero: #2e2f42;
+}
     
     body {
         color: var(--color-text);
