@@ -27,7 +27,7 @@
         text-decoration: none;
     }
 
-    .link-logo {
+    .logo {
         font-family: 'Raleway', sans-serif;
         font-weight: 800;
         font-size: 18px;
@@ -120,7 +120,7 @@
     .feature .text {
         color: var(--color-text);
         font-size: 16px;
-        line-height: 1.5;
+        letter-spacing: 0.02em;
     }
 
     /* What are we doing */
@@ -138,7 +138,7 @@
         background-color: #ffffff;
     }
 
-    .section-team {
+    .our-team {
         background-color: #f4f4fd;
     }
 
