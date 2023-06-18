@@ -108,14 +108,8 @@
     }
 
     /* About us section */
-    .visually-hidden {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    }
-
-    .feature .title {
+    
+    .title {
         color: var(--color-title);
         font-weight: 500;
         font-size: 20px;
@@ -123,7 +117,7 @@
         letter-spacing: 0.02em;
     }
 
-    .feature .text {
+    .text {
         color: var(--color-text);
         font-size: 16px;
         letter-spacing: 0.02em;
@@ -145,15 +139,6 @@
         font-weight: 700;
     }
 
-    .our-title {
-    font-weight: 500;
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    --color-title: #2e2f42;
-    }
 
     /* Our Team */
     .team-card {
@@ -164,12 +149,21 @@
         background-color: #f4f4fd;
     }
 
+    .our-title {
+    color: var(--color-title);
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    }
+
     .team-title {
         color: var(--color-title);
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
-        text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
     }
@@ -180,7 +174,7 @@
         font-size: 16px;
         line-height: 1.5;
     }
-
+    
     /* Footer */
 
     .page-footer {
