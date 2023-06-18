@@ -108,6 +108,12 @@
     }
 
     /* About us section */
+    .visually-hidden {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    }
 
     .feature .title {
         color: var(--color-title);
